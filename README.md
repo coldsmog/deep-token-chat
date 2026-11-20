@@ -16,6 +16,9 @@
 2. 直接双击打开html, 应该会跳转浏览器打开。若无，请使用你喜欢的浏览器打开。
 3. 点击右上角 **设置**，填入你的 DeepSeek 开发者 API Token（`sk-` 开头）
 4. 开始对话
+   
+<img width="1036" height="510" alt="主页面" src="https://github.com/user-attachments/assets/26d85148-b72e-4087-b243-f1356154a92e" />
+<img width="1059" height="513" alt="API 设置" src="https://github.com/user-attachments/assets/3d14b736-0f6b-484e-8b34-80fae6646a8d" />
 
 > API Token 可以在 [DeepSeek 开放平台](https://platform.deepseek.com/)
 > 获取与充值。用量与扣费以平台账单为准。
